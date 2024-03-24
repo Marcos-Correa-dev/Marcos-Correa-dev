@@ -8,7 +8,7 @@
 - 👩‍💻 Software Enginner
 - Fullstack developer, looking to take a level up, always
 - informative content on my [Instagram](https://www.instagram.com/marcosheld/).
-- 🎓 Computer Science Bachior @ [FAMETRO](https://fametro.edu.br/)
+- 🎓 Information Systems Bachelor @ [FAMETRO](https://fametro.edu.br/)
 - 🌐 Passionate about fullstack development
 - 💡 Love a good challenge
 
