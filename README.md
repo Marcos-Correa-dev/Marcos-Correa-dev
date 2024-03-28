@@ -9,7 +9,7 @@
 - Fullstack developer, looking to take a level up, always
 - informative content on my [Instagram](https://www.instagram.com/marcosheld/).
 - 🎓 Information Systems Bachelor @ [FAMETRO](https://fametro.edu.br/)
-- 🌐 Passionate about fullstack development
+- 🌐 Passionate culture DevOps
 - 💡 Love a good challenge
 
 
