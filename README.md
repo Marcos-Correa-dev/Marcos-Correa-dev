@@ -11,6 +11,7 @@
 - 🎓 Information Systems Bachelor @ [FAMETRO](https://fametro.edu.br/)
 - 🌐 Passionate culture DevOps
 - 💡 Love a good challenge
+-  <img src= "https://github.com/MarcuusCorrea/MarcuusCorrea/assets/96303668/89378ecd-3694-4603-82e7-bc6166331478 " height="18px" width="18px"> Contact me: correa.marcospaulo@gmail.com
 
 
 ![Marcos's GitHub stats](https://github-readme-stats.vercel.app/api?username=MarcuusCorrea&show_icons=true&theme=catppuccin_mocha)
