@@ -5,8 +5,8 @@
 
 <div style="display: inline_block"><br>
 
-- 👩‍💻 Software Enginner
-- Fullstack developer, looking to take a level up, always
+- 👩‍💻 Software Enginner/ DevOps
+- Fullstack developer and DevOps, looking to take a level up, always
 - informative content on my [Instagram](https://www.instagram.com/marcosheld/).
 - 🎓 Information Systems Bachelor @ [FAMETRO](https://fametro.edu.br/)
 - 🌐 Passionate culture DevOps
