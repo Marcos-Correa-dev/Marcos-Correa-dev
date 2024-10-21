@@ -7,6 +7,7 @@
 
 - 👩‍💻 Software Enginner/ DevOps
 - Fullstack developer and DevOps, looking to take a level up, always
+- My [Portfólio](https://marcoscode.my.canva.site/)
 - informative content on my [Instagram](https://www.instagram.com/marcosheld/).
 - 🎓 Information Systems Bachelor @ [FAMETRO](https://fametro.edu.br/)
 - 🌐 Passionate culture DevOps
