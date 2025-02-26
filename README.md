@@ -89,4 +89,8 @@
 </div>
 
 
+<div align="center">
+  
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=22rh4ij4oh5ljudmqnk6jgihq&unique={true|1|on|yes})
+
+</div>
