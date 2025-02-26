@@ -6,7 +6,7 @@
 <div style="display: inline_block"><br>
 
 - 👩‍💻 Software Enginner/ DevOps
-- Fullstack developer and DevOps, looking to take a level up, always            <img align="right" height="200" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGY0eXl2am9oMnYzaWw2d3hocG1hZnZiY3ZzdnQyY3l0cmd6YXo1YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif"  />                                                      
+- Fullstack developer and DevOps, looking to take a level up, always            <img align="right" height="180" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXRjZmNjaGwwOG9zdzlmM3dhaDRqazltY3J5bWE1ZWNncmJwNW8ydCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/a5viI92PAF89q/giphy.gif"  />                                                      
 - My [Portfólio](https://marcoscode.my.canva.site/)
 - informative content on my [Instagram](https://www.instagram.com/mrcoscode/).
 - 🎓 Information Systems Bachelor @ [FAMETRO](https://fametro.edu.br/)
@@ -19,7 +19,9 @@
   <a href="https://www.linkedin.com/in/dev-marcoscorrea/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
+  <a href="https://discord.gg/4Wte5TPV" target="_blank">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
+  </a>
   <a href="https://www.youtube.com/@MYIOZ" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
   </a>
