@@ -4,11 +4,6 @@
 </p>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=B0E0E6&size=35&center=true&vCenter=true&width=1000&lines=HI+THERE,+My+name+is+Marcos+Corrêa;Welcome!+:%29)](https://git.io/typing-svg)
-
-<h1>Hi There! 👋</h1>
-
-## My name is Marcos Corrêa!
-
 <div style="display: inline_block"><br>
 
 - 👩‍💻 Software Enginner/ DevOps
