@@ -1,6 +1,5 @@
 <p>
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=6495ED&height=120&section=header"/>
- <img src="https://github.com/MarcuusCorrea/MarcuusCorrea/blob/main/M.png" width="100%" height="AUTO">
 </p>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=B0E0E6&size=35&center=true&vCenter=true&width=1000&lines=HI+THERE,+My+name+is+Marcos+Corrêa;Welcome!+:%29)](https://git.io/typing-svg)
