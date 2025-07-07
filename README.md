@@ -6,7 +6,7 @@
 <div style="display: inline_block"><br>
 
 - 👩‍💻 Software Enginner/ DevOps
-- Fullstack developer and DevOps, looking to take a level up, always            <img align="right" height="180" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXRjZmNjaGwwOG9zdzlmM3dhaDRqazltY3J5bWE1ZWNncmJwNW8ydCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/a5viI92PAF89q/giphy.gif"  />                                                      
+- Fullstack developer and DevOps, looking to take a level up, always                                                                                                                       
 - My [Portfólio](https://marcoscode.my.canva.site/)
 - informative content on my [Instagram](https://www.instagram.com/mrcoscode/).
 - 🎓 Information Systems Bachelor @ [FAMETRO](https://fametro.edu.br/)
